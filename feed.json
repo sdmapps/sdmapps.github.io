@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "sdm Apps",
+    "description": "",
+    "home_page_url": "https://sdmapps.github.io",
+    "feed_url": "https://sdmapps.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "sdm Apps"
+    },
+    "items": [
+        {
+            "id": "https://sdmapps.github.io/welcome.html",
+            "url": "https://sdmapps.github.io/welcome.html",
+            "title": "Welcome",
+            "summary": "This website will be available soon..",
+            "content_html": "<p>This website will be available soon..</p>",
+            "image": "https://sdmapps.github.io/media/posts/1/",
+            "author": {
+                "name": "sdm Apps"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-09-05T22:43:15+05:30",
+            "date_modified": "2018-09-05T22:43:15+05:30"
+        }
+    ]
+}
